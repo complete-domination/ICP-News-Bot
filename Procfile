@@ -1,1 +1,1 @@
-worker: python icp_news_bot.py
+worker: python icpnews.py
